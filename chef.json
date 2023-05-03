@@ -1,0 +1,46 @@
+ [
+      {
+        "picture": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "name": "Chef John",
+        "years_of_experience": 20,
+        "num_recipes": 500,
+        "likes": 10000
+      },
+      {
+        "picture": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+        "name": "Ina Garten",
+        "years_of_experience": 30,
+        "num_recipes": 1000,
+        "likes": 50000
+      },
+      {
+        "picture": "https://images.unsplash.com/photo-1581349485608-9469926a8e5e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+        "name": "Gordon Ramsay",
+        "years_of_experience": 25,
+        "num_recipes": 700,
+        "likes": 25000
+      },
+      {
+        "picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1954&q=80",
+        "name": "David Olson",
+        "years_of_experience": 15,
+        "num_recipes": 400,
+        "likes": 15000
+      },
+      {
+        "picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80",
+        "name": "Bobby Flay",
+        "years_of_experience": 25,
+        "num_recipes": 600,
+        "likes": 20000
+      },
+      {
+        "picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1780&q=80",
+        "name": "Michel Watson",
+        "years_of_experience": 50,
+        "num_recipes": 300,
+        "likes": 5000
+      }
+    ]
+  
+  
