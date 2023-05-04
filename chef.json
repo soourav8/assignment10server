@@ -1,45 +1,64 @@
  [
       {
+         
+        "id" : "1",
         "picture": "https://images.unsplash.com/photo-1607631568010-a87245c0daf8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "name": "Chef John",
         "years_of_experience": 20,
         "num_recipes": 500,
-        "likes": 10000
+        "likes": 10000,
+        
+        "description": "John is a world-renowned chef and restaurateur. He has multiple Michelin-starred restaurants and is known for his contemporary take on British cuisine."
+      
       },
-      {
+      { 
+        "id" : "2",
         "picture": "https://images.unsplash.com/photo-1566554273541-37a9ca77b91f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
-        "name": "Ina Garten",
+        "name": "Ina K",
         "years_of_experience": 30,
         "num_recipes": 1000,
-        "likes": 50000
+        "likes": 50000,
+        
+        "description": "Ina  is a pioneer of the farm-to-table movement. She is the founder of Chez  in Berkeley, California, and has been a champion of sustainable and organic farming practices for decades."
       },
-      {
+      { "id" : "3",
         "picture": "https://images.unsplash.com/photo-1581349485608-9469926a8e5e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
         "name": "Gordon Ramsay",
         "years_of_experience": 25,
         "num_recipes": 700,
-        "likes": 25000
+        "likes": 25000,
+        
+        "description": "Gordon Ramsay is the chef-patron of  in Modena, Italy. He is known for his innovative approach to Italian cuisine and has been named the world's best chef multiple times."
       },
-      {
+      { "id" : "4",
         "picture": "https://images.unsplash.com/photo-1577219491135-ce391730fb2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1954&q=80",
         "name": "David Olson",
         "years_of_experience": 15,
         "num_recipes": 400,
-        "likes": 15000
+        "likes": 15000,
+        
+        "description": "David Olson is a pioneer of the farm-to-table movement. She is the founder of Chez  in Berkeley, California, and has been a champion of sustainable and organic farming practices for decades."
       },
       {
+        "id" : "5",
         "picture": "https://images.unsplash.com/photo-1581299894007-aaa50297cf16?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80",
         "name": "Bobby Flay",
         "years_of_experience": 25,
         "num_recipes": 600,
-        "likes": 20000
+        "likes": 20000,
+        
+          "description": "Bobby Flay is the chef-patron of in Modena, Italy. He is known for his innovative approach to Italian cuisine and has been named the world's best chef multiple times."
       },
       {
+        "id" : "6",
         "picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1780&q=80",
         "name": "Michel Watson",
         "years_of_experience": 50,
         "num_recipes": 300,
-        "likes": 5000
+        "likes": 5000,
+        
+         "description": "Michel Watson is a beloved American chef and cookbook author. She is known for her approachable and delicious recipes, which often feature classic American comfort food dishes with a gourmet twist."
+         
       }
     ]
   
