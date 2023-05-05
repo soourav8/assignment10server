@@ -7,6 +7,33 @@
         "years_of_experience": 20,
         "num_recipes": 500,
         "likes": 10000,
+
+        "img1" : "https://images.unsplash.com/photo-1532465909-4e0278962a2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHNtYWxsJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+
+        "img2" : "https://images.unsplash.com/photo-1575219799974-8c4264b905f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "img3" : "https://images.unsplash.com/photo-1499889808931-317a0255c0e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "ingredients1" : "100g Light Mayonnaise",
+        "ingredients2" : "250g Sliced Cooked Chicken",
+        "ingredients3" : "50g Sultanas/Raisins",
+        "ingredients4" : "50g Mango Chutney",
+        "ingredients5" : "2 x Baking Potatoes",
+        "ingredients6" : "100g Light Mayonnaise",
+        "ingredients7" : "250g Sliced Cooked Chicken",
+        "ingredients8" : "50g Sultanas/Raisins",
+        "ingredients9" : "50g Mango Chutney",
+        "ingredients10" : "2 x Baking Potatoes",
+        "ingredients11" : "100g Light Mayonnaise",
+        "ingredients12" : "250g Sliced Cooked Chicken",
+        "ingredients13" : "50g Sultanas/Raisins",
+        "ingredients14" : "50g Mango Chutney",
+        "ingredients15" : "2 x Baking Potatoes",
+        "recipe1" : "Lasagne alla Bolognese",
+        "recipe2" : "Fettuccine al Pomodoro",
+        "recipe3" : "Gnocchi di Patate",
+
+        "method" : "Types of fat include vegetable oils, animal products such as butter and lard, as well as fats from grains, including maize and flax oils. Fats are used in a number of ways in cooking and baking. To prepare stir fries, grilled cheese or pancakes, the pan or griddle is often coated with fat or oil. Fats are also used as an ingredient in baked goods such as cookies, cakes and pies.",
+
+        "ratings" : "4",
         
         "description": "John is a world-renowned chef and restaurateur. He has multiple Michelin-starred restaurants and is known for his contemporary take on British cuisine."
       
@@ -19,6 +46,33 @@
         "num_recipes": 1000,
         "likes": 50000,
         
+        "ingredients1" : "100g Light Mayonnaise",
+        "ingredients2" : "250g Sliced Cooked Chicken",
+        "ingredients3" : "50g Sultanas/Raisins",
+        "ingredients4" : "50g Mango Chutney",
+        "ingredients5" : "2 x Baking Potatoes",
+        "ingredients6" : "100g Light Mayonnaise",
+        "ingredients7" : "250g Sliced Cooked Chicken",
+        "ingredients8" : "50g Sultanas/Raisins",
+        "ingredients9" : "50g Mango Chutney",
+        "ingredients10" : "2 x Baking Potatoes",
+        "ingredients11" : "100g Light Mayonnaise",
+        "ingredients12" : "250g Sliced Cooked Chicken",
+        "ingredients13" : "50g Sultanas/Raisins",
+        "ingredients14" : "50g Mango Chutney",
+        "ingredients15" : "2 x Baking Potatoes",
+
+        "recipe1" : "Lasagne alla Bolognese",
+        "recipe2" : "Fettuccine al Pomodoro",
+        "recipe3" : "Gnocchi di Patate",
+
+
+        "method" : "Types of fat include vegetable oils, animal products such as butter and lard, as well as fats from grains, including maize and flax oils. Fats are used in a number of ways in cooking and baking. To prepare stir fries, grilled cheese or pancakes, the pan or griddle is often coated with fat or oil. Fats are also used as an ingredient in baked goods such as cookies, cakes and pies.",
+
+        "ratings" : "4",
+        
+
+
         "description": "Ina  is a pioneer of the farm-to-table movement. She is the founder of Chez  in Berkeley, California, and has been a champion of sustainable and organic farming practices for decades."
       },
       { "id" : "3",
@@ -27,6 +81,32 @@
         "years_of_experience": 25,
         "num_recipes": 700,
         "likes": 25000,
+        "img1" : "https://images.unsplash.com/photo-1532465909-4e0278962a2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHNtYWxsJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "img2" : "https://images.unsplash.com/photo-1575219799974-8c4264b905f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "img3" : "https://images.unsplash.com/photo-1499889808931-317a0255c0e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "ingredients1" : "100g Light Mayonnaise",
+        "ingredients2" : "250g Sliced Cooked Chicken",
+        "ingredients3" : "50g Sultanas/Raisins",
+        "ingredients4" : "50g Mango Chutney",
+        "ingredients5" : "2 x Baking Potatoes",
+        "ingredients6" : "100g Light Mayonnaise",
+        "ingredients7" : "250g Sliced Cooked Chicken",
+        "ingredients8" : "50g Sultanas/Raisins",
+        "ingredients9" : "50g Mango Chutney",
+        "ingredients10" : "2 x Baking Potatoes",
+        "ingredients11" : "100g Light Mayonnaise",
+        "ingredients12" : "250g Sliced Cooked Chicken",
+        "ingredients13" : "50g Sultanas/Raisins",
+        "ingredients14" : "50g Mango Chutney",
+        "ingredients15" : "2 x Baking Potatoes",
+
+        "recipe1" : "Lasagne alla Bolognese",
+        "recipe2" : "Fettuccine al Pomodoro",
+        "recipe3" : "Gnocchi di Patate",
+
+        "method" : "Types of fat include vegetable oils, animal products such as butter and lard, as well as fats from grains, including maize and flax oils. Fats are used in a number of ways in cooking and baking. To prepare stir fries, grilled cheese or pancakes, the pan or griddle is often coated with fat or oil. Fats are also used as an ingredient in baked goods such as cookies, cakes and pies.",
+
+        "ratings" : "4",
         
         "description": "Gordon Ramsay is the chef-patron of  in Modena, Italy. He is known for his innovative approach to Italian cuisine and has been named the world's best chef multiple times."
       },
@@ -36,6 +116,32 @@
         "years_of_experience": 15,
         "num_recipes": 400,
         "likes": 15000,
+        "img1" : "https://images.unsplash.com/photo-1532465909-4e0278962a2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHNtYWxsJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "img2" : "https://images.unsplash.com/photo-1575219799974-8c4264b905f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "img3" : "https://images.unsplash.com/photo-1499889808931-317a0255c0e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "ingredients1" : "100g Light Mayonnaise",
+        "ingredients2" : "250g Sliced Cooked Chicken",
+        "ingredients3" : "50g Sultanas/Raisins",
+        "ingredients4" : "50g Mango Chutney",
+        "ingredients5" : "2 x Baking Potatoes",
+        "ingredients6" : "100g Light Mayonnaise",
+        "ingredients7" : "250g Sliced Cooked Chicken",
+        "ingredients8" : "50g Sultanas/Raisins",
+        "ingredients9" : "50g Mango Chutney",
+        "ingredients10" : "2 x Baking Potatoes",
+        "ingredients11" : "100g Light Mayonnaise",
+        "ingredients12" : "250g Sliced Cooked Chicken",
+        "ingredients13" : "50g Sultanas/Raisins",
+        "ingredients14" : "50g Mango Chutney",
+        "ingredients15" : "2 x Baking Potatoes",
+
+        "recipe1" : "Lasagne alla Bolognese",
+        "recipe2" : "Fettuccine al Pomodoro",
+        "recipe3" : "Gnocchi di Patate",
+
+        "method" : "Types of fat include vegetable oils, animal products such as butter and lard, as well as fats from grains, including maize and flax oils. Fats are used in a number of ways in cooking and baking. To prepare stir fries, grilled cheese or pancakes, the pan or griddle is often coated with fat or oil. Fats are also used as an ingredient in baked goods such as cookies, cakes and pies.",
+
+        "ratings" : "4",
         
         "description": "David Olson is a pioneer of the farm-to-table movement. She is the founder of Chez  in Berkeley, California, and has been a champion of sustainable and organic farming practices for decades."
       },
@@ -46,16 +152,68 @@
         "years_of_experience": 25,
         "num_recipes": 600,
         "likes": 20000,
+        "img1" : "https://images.unsplash.com/photo-1532465909-4e0278962a2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHNtYWxsJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "img2" : "https://images.unsplash.com/photo-1575219799974-8c4264b905f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "img3" : "https://images.unsplash.com/photo-1499889808931-317a0255c0e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "ingredients1" : "100g Light Mayonnaise",
+        "ingredients2" : "250g Sliced Cooked Chicken",
+        "ingredients3" : "50g Sultanas/Raisins",
+        "ingredients4" : "50g Mango Chutney",
+        "ingredients5" : "2 x Baking Potatoes",
+        "ingredients6" : "100g Light Mayonnaise",
+        "ingredients7" : "250g Sliced Cooked Chicken",
+        "ingredients8" : "50g Sultanas/Raisins",
+        "ingredients9" : "50g Mango Chutney",
+        "ingredients10" : "2 x Baking Potatoes",
+        "ingredients11" : "100g Light Mayonnaise",
+        "ingredients12" : "250g Sliced Cooked Chicken",
+        "ingredients13" : "50g Sultanas/Raisins",
+        "ingredients14" : "50g Mango Chutney",
+        "ingredients15" : "2 x Baking Potatoes",
+
+        "recipe1" : "Lasagne alla Bolognese",
+        "recipe2" : "Fettuccine al Pomodoro",
+        "recipe3" : "Gnocchi di Patate",
+
+        "method" : "Types of fat include vegetable oils, animal products such as butter and lard, as well as fats from grains, including maize and flax oils. Fats are used in a number of ways in cooking and baking. To prepare stir fries, grilled cheese or pancakes, the pan or griddle is often coated with fat or oil. Fats are also used as an ingredient in baked goods such as cookies, cakes and pies.",
+
+        "ratings" : "4",
         
           "description": "Bobby Flay is the chef-patron of in Modena, Italy. He is known for his innovative approach to Italian cuisine and has been named the world's best chef multiple times."
       },
       {
         "id" : "6",
-        "picture": "https://images.unsplash.com/photo-1583394293214-28ded15ee548?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1780&q=80",
+        "picture": "https://images.unsplash.com/photo-1654922207993-2952fec328ae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y2hlZnxlbnwwfHwwfHw%3D&w=1000&q=80",
         "name": "Michel Watson",
         "years_of_experience": 50,
         "num_recipes": 300,
         "likes": 5000,
+        "img1" : "https://images.unsplash.com/photo-1532465909-4e0278962a2b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fHNtYWxsJTIwZm9vZHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "img2" : "https://images.unsplash.com/photo-1575219799974-8c4264b905f8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "img3" : "https://images.unsplash.com/photo-1499889808931-317a0255c0e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "ingredients1" : "100g Light Mayonnaise",
+        "ingredients2" : "250g Sliced Cooked Chicken",
+        "ingredients3" : "50g Sultanas/Raisins",
+        "ingredients4" : "50g Mango Chutney",
+        "ingredients5" : "2 x Baking Potatoes",
+        "ingredients6" : "100g Light Mayonnaise",
+        "ingredients7" : "250g Sliced Cooked Chicken",
+        "ingredients8" : "50g Sultanas/Raisins",
+        "ingredients9" : "50g Mango Chutney",
+        "ingredients10" : "2 x Baking Potatoes",
+        "ingredients11" : "100g Light Mayonnaise",
+        "ingredients12" : "250g Sliced Cooked Chicken",
+        "ingredients13" : "50g Sultanas/Raisins",
+        "ingredients14" : "50g Mango Chutney",
+        "ingredients15" : "2 x Baking Potatoes",
+
+        "recipe1" : "Lasagne alla Bolognese",
+        "recipe2" : "Fettuccine al Pomodoro",
+        "recipe3" : "Gnocchi di Patate",
+
+        "method" : "Types of fat include vegetable oils, animal products such as butter and lard, as well as fats from grains, including maize and flax oils. Fats are used in a number of ways in cooking and baking. To prepare stir fries, grilled cheese or pancakes, the pan or griddle is often coated with fat or oil. Fats are also used as an ingredient in baked goods such as cookies, cakes and pies.",
+
+        "ratings" : "4",
         
          "description": "Michel Watson is a beloved American chef and cookbook author. She is known for her approachable and delicious recipes, which often feature classic American comfort food dishes with a gourmet twist."
          
